@@ -1,0 +1,18 @@
+
+
+.movieDetailsContainer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.movieImage{
+    max-width: 400px;
+    border-radius: 8px;
+
+}
+
+.movieDetailsContent{
+    max-width: 400px;
+    padding: 2rem;
+}
